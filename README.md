@@ -19,7 +19,11 @@ Personal disclaimers:
 
 Files available:
 
+**Tutorial**
+
 > [Tutorial made with X-TRACT! - By XLogic](Oldies/X-TRACT/ASM_TUT_WITH_XTRACT/pc_xltut.zip)
+
+**Binaries**
 
 > [X-TRACT 1.41](Oldies/X-TRACT/MSDOS-BIN/XTRAC141.ZIP)
 
@@ -27,11 +31,15 @@ Files available:
 
 > [X-TRACT 1.51 copy mirrored by SAC](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_ORIGINAL_MIRRORED_BY_SAC.ZIP)
 
+**ASM x86 sources**
+
 > [X-TRACT 1.44 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_44.ZIP)
 
 > [X-TRACT 1.99a asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
 
 > [X-TRACT 1.51 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_51.RAR)
+
+**Keymakers**
 
 > [Keymaker made by a friend of mine - Hi Luck!](Oldies/X-TRACT/X-TRACT_KEYMAKERS/KEYMAKER.ZIP)
 
