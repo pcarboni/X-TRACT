@@ -1,6 +1,10 @@
 # Code
 Software made with my own hands. It rocks, don't you think so? ;-)
 
+(Currently available X-TRACT unpacker)
+
+Original quote: "X-TRACT - The next generation of Unprotectors"
+
 Note: X-TRACT works fine on MSDOS. It was compiled with TASM 2.0
 
 Fun fact: As you can see, filenames were created with uppercase letters [8 letters max + 3 letters ext], but sources includes those files with lowercase! (yes, it compiles fine. MSDOS / Windows ignores case)
