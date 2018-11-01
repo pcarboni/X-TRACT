@@ -37,9 +37,9 @@ Files available:
 
 > [X-TRACT 1.44 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_44.ZIP)
 
-> [X-TRACT 1.99a asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
+> [X-TRACT 1.51 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_51.RAR) - The last working version!
 
-> [X-TRACT 1.51 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_51.RAR)
+> [X-TRACT 1.99a asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
 
 **Keymakers**
 
