@@ -1,21 +1,24 @@
-# Code
-Software made with my own hands. It rocks, don't you think so? ;-)
+## X-TRACT - MSDOS executable file unpacker
+Original quotes:
 
-(Currently available [X-TRACT](Oldies/X-TRACT) unpacker)
+* My original quote (1994/95): "X-TRACT - The next generation of Unprotectors" :-)
+* From [SAC](https://www.sac.sk/files.php?d=7&l=X): "X-TRACT v1.51 - EXE files unpacker by Pablo Carboni - Original ASM x86 sources now included" (1996, now updated on Oct'2018)
 
-Original quote: "X-TRACT - The next generation of Unprotectors"
+Yes, the original mirror was/is [Slovakian Antivirus Center](https://www.sac.sk). Thanks to Peter Hubinsky - [SAC Site adm](ftp://ftp.elf.stuba.sk) - for his kindly and great support, since 1996 until today! - (Oct/2018)
 
-Note: X-TRACT works fine on MSDOS. It was compiled with TASM 2.0
+X-TRACT sources/binaries/keymakers/tutorial available [here](Oldies/X-TRACT).
 
-Fun fact: As you can see, filenames were created with uppercase letters [8 letters max + 3 letters ext], but sources includes those files with lowercase! (yes, it compiles fine. MSDOS / Windows ignores case)
+> Note: X-TRACT works fine on MSDOS. It was compiled with TASM 2.0
 
-Disclaimer:
+*Fun fact:* As you can see, filenames were created with uppercase letters [8 letters max + 3 letters ext], but sources includes those files with lowercase! (yes, it compiles fine. MSDOS / Windows ignores case)
+
+### Disclaimer:
 
 - Files under "ASM_x86-SRC" and "MSDOS-BIN" directory name are released with BSD license, with source open for educational purposes, (after 23 years)
 - Files under "KEYMAKERS" directory name are keymakers found on the internet!
 - File under "TUTORIAL" directory name is an ASM tutorial made with X-TRACT as use case!
 
-Personal disclaimers:
+### Personal disclaimer:
 
 - X-TRACT intention was to avoid "scrambled binaries", with viruses/trojan horses inside.
 - It was my first home-made ASM program. I know, it sucks, as the English language contained inside. ;-)
@@ -33,7 +36,9 @@ Files available:
 
 > [X-TRACT 1.51 original copy - preupload to SAC](Oldies/X-TRACT/MSDOS-BIN/XTRAC151.ZIP)
 
-> [X-TRACT 1.51 copy mirrored by SAC](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_ORIGINAL_MIRRORED_BY_SAC.ZIP)
+> [X-TRACT 1.51 copy mirrored by SAC - original from 1996.](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_ORIGINAL_MIRRORED_BY_SAC.ZIP)
+
+> [X-TRACT 1.51 copy mirrored by SAC - updated on 2018, sources included!.](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_WITH_SOURCES.ZIP)
 
 > [X-TRACT 1.51 modified version by UE](Oldies/X-TRACT/MSDOS-BIN/ue-00108.zip)
 
@@ -60,3 +65,5 @@ Files available:
 My E-mail contact: pcarboni (at) gmail.com
 
 ---
+
+Last update: Nov 2nd, 2018
