@@ -4,7 +4,7 @@ Original quotes:
 * My original quote (1994/95): "X-TRACT - The next generation of Unprotectors" :-)
 * From [SAC](https://www.sac.sk/files.php?d=7&l=X): "X-TRACT v1.51 - EXE files unpacker by Pablo Carboni - Original ASM x86 sources now included" (1996, now updated on Oct'2018)
 
-Yes, the original mirror was/is [Slovakian Antivirus Center](https://www.sac.sk). Thanks to Peter Hubinsky - [SAC Site adm](ftp://ftp.elf.stuba.sk) - for his kindly and great support, since 1996 until today! - (Oct/2018)
+Yes, the original mirror was/is [Slovakian Antivirus Center](https://www.sac.sk). Thanks to Peter Hubinsky - [SAC Site adm](ftp://ftp.elf.stuba.sk) - for his kindly and great support with the file uploading, since 1996 until today! - (Oct/2018)
 
 X-TRACT sources/binaries/keymakers/tutorial available [here](Oldies/X-TRACT).
 
