@@ -6,7 +6,7 @@ Original quotes:
 
 Yes, the original mirror was/is [Slovakian Antivirus Center](https://www.sac.sk). Thanks to Peter Hubinsky - [SAC Site adm](ftp://ftp.elf.stuba.sk) - for his kindly and great support with the file uploading, since 1996 until today! - (Oct/2018)
 
-X-TRACT sources/binaries/keymakers/tutorial available [here](.).
+### In this repo you will find X-TRACT sources/binaries/keymakers/tutorial
 
 > Note: X-TRACT works fine on MSDOS. It was compiled with TASM 2.0
 
