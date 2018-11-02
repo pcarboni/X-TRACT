@@ -6,7 +6,7 @@ Original quotes:
 
 Yes, the original mirror was/is [Slovakian Antivirus Center](https://www.sac.sk). Thanks to Peter Hubinsky - [SAC Site adm](ftp://ftp.elf.stuba.sk) - for his kindly and great support with the file uploading, since 1996 until today! - (Oct/2018)
 
-X-TRACT sources/binaries/keymakers/tutorial available [here](Oldies/X-TRACT).
+X-TRACT sources/binaries/keymakers/tutorial available [here](.).
 
 > Note: X-TRACT works fine on MSDOS. It was compiled with TASM 2.0
 
@@ -28,37 +28,37 @@ Files available:
 
 **Tutorial**
 
-> [Tutorial made with X-TRACT! - By XLogic](Oldies/X-TRACT/ASM_TUT_WITH_XTRACT/pc_xltut.zip)
+> [Tutorial made with X-TRACT! - By XLogic](ASM_TUT_WITH_XTRACT/pc_xltut.zip)
 
 **Binaries**
 
-> [X-TRACT 1.41](Oldies/X-TRACT/MSDOS-BIN/XTRAC141.ZIP)
+> [X-TRACT 1.41](MSDOS-BIN/XTRAC141.ZIP)
 
-> [X-TRACT 1.51 original copy - preupload to SAC](Oldies/X-TRACT/MSDOS-BIN/XTRAC151.ZIP)
+> [X-TRACT 1.51 original copy - preupload to SAC](MSDOS-BIN/XTRAC151.ZIP)
 
-> [X-TRACT 1.51 copy mirrored by SAC - original from 1996.](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_ORIGINAL_MIRRORED_BY_SAC.ZIP)
+> [X-TRACT 1.51 copy mirrored by SAC - original from 1996.](MSDOS-BIN/XTRAC151_ORIGINAL_MIRRORED_BY_SAC.ZIP)
 
-> [X-TRACT 1.51 copy mirrored by SAC - updated on 2018, sources included!.](Oldies/X-TRACT/MSDOS-BIN/XTRAC151_WITH_SOURCES.ZIP)
+> [X-TRACT 1.51 copy mirrored by SAC - updated on 2018, sources included!.](MSDOS-BIN/XTRAC151_WITH_SOURCES.ZIP)
 
-> [X-TRACT 1.51 modified version by UE](Oldies/X-TRACT/MSDOS-BIN/ue-00108.zip)
+> [X-TRACT 1.51 modified version by UE](MSDOS-BIN/ue-00108.zip)
 
 **ASM x86 sources**
 
-> [X-TRACT 1.44 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_44.ZIP)
+> [X-TRACT 1.44 asm src](ASM_x86-SRC/X-TRACT_SRC_1_44.ZIP)
 
-> [X-TRACT 1.51 asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1_51.RAR) - The last working version!
+> [X-TRACT 1.51 asm src](ASM_x86-SRC/X-TRACT_SRC_1_51.RAR) - The last working version!
 
-> [X-TRACT 1.99a asm src](Oldies/X-TRACT/ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
+> [X-TRACT 1.99a asm src](ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
 
 **Keymakers**
 
-> [Keymaker made by a friend of mine - Hi Luck!](Oldies/X-TRACT/X-TRACT_KEYMAKERS/KEYMAKER.ZIP)
+> [Keymaker made by a friend of mine - Hi Luck!](X-TRACT_KEYMAKERS/KEYMAKER.ZIP)
 
-> [Keymaker #2 - by eMX!](Oldies/X-TRACT/X-TRACT_KEYMAKERS/PC_XKEY.ZIP)
+> [Keymaker #2 - by eMX!](X-TRACT_KEYMAKERS/PC_XKEY.ZIP)
 
-> [Keymaker #3 - the same zip file for ASM tutorial - By XLogic](Oldies/X-TRACT/X-TRACT_KEYMAKERS/pc_xltut.zip)
+> [Keymaker #3 - the same zip file for ASM tutorial - By XLogic](X-TRACT_KEYMAKERS/pc_xltut.zip)
 
-> [Keymaker #4 - Made/compiled with MS qbasic! - By Papa Pitufo](Oldies/X-TRACT/X-TRACT_KEYMAKERS/XT-KEY.ZIP)
+> [Keymaker #4 - Made/compiled with MS qbasic! - By Papa Pitufo](X-TRACT_KEYMAKERS/XT-KEY.ZIP)
 
 ---
 
