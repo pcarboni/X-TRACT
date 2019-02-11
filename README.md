@@ -65,6 +65,10 @@ Files available:
 
 **Sites**
 
+> [Slovakian Antivirus Center -SAC-, Slovakian Site: https://www.sac.sk/files.php?d=7&l=X]
+
+> [SAC, ftp site: ftp://ftp.elf.stuba.sk/pub/pc/pack/xtrac151.zip]
+
 > [Russian site: http://old-dos.ru/index.php?page=files&mode=files&do=show&id=3656]
 
   It contains Keymaker from Dark Stalker/UCF. Quote: "The author is a little cheeky, but still the program is good."
