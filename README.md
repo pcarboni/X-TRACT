@@ -43,13 +43,17 @@ Files available:
 
 > [X-TRACT 1.51 modified version by UE](MSDOS-BIN/ue-00108.zip)
 
-**ASM x86 sources**
+**ASM x86 sources (original packages)**
 
 > [X-TRACT 1.44 asm src](ASM_x86-SRC/X-TRACT_SRC_1_44.ZIP)
 
 > [X-TRACT 1.51 asm src](ASM_x86-SRC/X-TRACT_SRC_1_51.RAR) - The last working version!
 
 > [X-TRACT 1.99a asm src](ASM_x86-SRC/X-TRACT_SRC_1.99.RAR) - Never released, not working. It works only the frontend menus + memory management.
+
+**ASM sources - plain text - in github**
+
+> [Click here](src)
 
 **Keymakers**
 
